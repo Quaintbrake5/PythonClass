@@ -1,0 +1,13 @@
+{
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.typeCheckingMode": "standard",
+    "python.analysis.extraPaths": [
+        "./oop",
+        "./assignments/QuickCart/Enums",
+        "./assignments/QuickCart/JSON",
+        "./assignments/QuickCart/Models",
+        "./assignments/QuickCart/Services"
+    ],
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python-envs.pythonProjects": []
+}
